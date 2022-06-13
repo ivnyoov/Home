@@ -5,7 +5,7 @@
 
 
 ## 使用说明  
-#### 地址：https://ivnyoov.gitee.io/index/  
+#### 地址：https://ivnyoov.github.io/Home/ 
   
   
 ## 更新日志   
